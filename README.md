@@ -6,6 +6,8 @@ A simple Chrome extension to save and manage website URLs as leads. Easily captu
 
 [View the Extension Here](https://gainny.github.io/leads-tracker)
 
+<img width="1640" alt="image" src="https://github.com/user-attachments/assets/8a4ba041-bc4a-43af-b182-caa12ad36729" />
+
 ## 🛠️ Technologies Used
 
 - HTML5  
